@@ -98,12 +98,23 @@ education:
     duration: "2012-2015"
     degree: "Bachelor of Applied Sciences"
     department: "Geology"
-
+ # optional
+    awards_achievements: 
+      - "GPA: 12/20"
   - school_name: "University of Science and technology Houari Boumediene"
     duration: "2015-2017"
     degree: "Master of Engineering"
     department: "Plate tectonics and remote sensing "
-
+ # optional
+    awards_achievements: 
+      - "GPA: 17.5/20"
+ - school_name: "University of Quebec at Montreal"
+    duration: "2019-2022"
+    degree: "Bachelor of Applied Sciences"
+    department: "Software engineering"
+ # optional
+    awards_achievements: 
+      - "GPA: 2.8/4.3"
 #Optional section
 others:
     #category
