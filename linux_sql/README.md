@@ -32,7 +32,7 @@ crontab -e
  * * * * * bash /home/centos/dev/jarvis_data_eng-Anissbenddine/linux_sql/scripts/host_usage.sh localhost 5432 host_agent postgres password > /tmp/host_usage.log
 ```
 
-# Implemenation
+# Implementation
 
 To implement the project, we followed the requirements provided in the prompt. We designed and implemented an MVP that allows the LCA team to meet their business needs. Our MVP helps users to write SQL queries to answer business questions using the collected data. The project is built using Linux command lines, Bash scripts, PostgreSQL, Docker, and IDE.
 
