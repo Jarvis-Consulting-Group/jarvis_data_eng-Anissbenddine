@@ -51,6 +51,8 @@ Overall, our implementation allows users to gather hardware information and usag
 ## Architecture
 The cluster diagram with three Linux hosts, a DB, and agents is saved in the `assets` directory.
 
+![diagram](/assests/diagram_lca.jpg)
+
 ## Scripts
 Shell script description and usage :
 
