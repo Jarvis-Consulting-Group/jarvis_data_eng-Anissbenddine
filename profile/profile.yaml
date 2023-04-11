@@ -1,7 +1,7 @@
 # Preferred name (Characters only)
 name: "Aniss Benddine"
 # Your GitHub repo root URL
-tr      github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng-Anissbenddine
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng-Anissbenddine
 
 # Introduce yourself, your academic and professional background.
 # What excites you about the software industry and your passion. At least 80 words
@@ -41,13 +41,13 @@ jarvis_projects:
     git_url: "/linux_sql"
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+    description: Collect and store system resource data for different hosts in a cluster with this MVP. Analyze the data with SQL queries. Utilize Linux command lines, Bash scripts, PostgreSQL, docker, and GitHub. Gather server usage data with a bash agent and insert it into the psql instance. Provision the database with Docker and manage the source code with GitHub. Aimed at the LCA team but usable by others analyzing cluster resource usage.
   - name: "Core Java Apps"
     git_url: "/core_java"
     description:
       - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
       - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+      - "Grep App: "
   - name: "Springboot App"
     git_url: "/springboot"
     description: ""
@@ -86,11 +86,19 @@ professional_experience:
     company: "Jarvis"
     duration: "2023-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
-  - title: "Tutor"
-    company: "XYZ Company"
-    duration: "2019"
-    description: "Donec mattis sed justo et sagittis. Vestibulum lacinia nulla ipsum. Curabitur imperdiet nibh vitae leo lacinia laoreet. Nullam accumsan, lectus ut maximus ultricies, augue justo egestas mi, vel bibendum felis."
+    description: "Develop, design, and maintain software solutions using programming languages such as Java, C++, C, Haskell, and Prolog as a software developer. Utilize expertise in algorithms and web frameworks like Angular or React to create effective and efficient solutions. Utilize version control tools such as GitHub and work in an Agile/Scrum methodology to collaborate with cross-functional teams to deliver high-quality software products. Possess in-depth knowledge of Linux, SQL, PostgreSQL, Docker, VM, and cloud computing to ensure optimal software performance, security, and scalability. Continuously learn and stay up-to-date on the latest technologies and industry trends to provide innovative and cutting-edge software solutions."
+  - title: "Sales advisor"
+    company: "Best Buy Canada"
+    duration: "2019-2021"
+    description: "Provide exceptional customer service, offer product recommendations and advice, and meet and exceed sales targets as a sales advisor at Best Buy. Utilize strong interpersonal skills to build rapport and establish trust with customers, actively listen to their needs and concerns, and provide solutions that meet their requirements. Demonstrate in-depth knowledge of products and services, and effectively communicate technical information to customers in a clear and concise manner. Collaborate with cross-functional teams to ensure customer satisfaction and support the overall success of the sales team. Continuously learn and stay up-to-date on the latest product information and trends to provide the best possible service to customers."
+  - title: "IT Technician"
+    company: "Genisoft"
+    duration: "2019-2019"
+    description: "Troubleshoot hardware and software issues, maintain computer systems, perform routine maintenance tasks, and provide technical support to end-users as an IT technician. Utilize strong problem-solving skills and technical knowledge to identify and resolve issues efficiently and effectively. Collaborate with cross-functional teams to implement upgrades and improvements to systems, networks, and software. Maintain accurate records of service requests and repairs, and provide timely and clear communication to end-users. Continuously expand technical knowledge and skills through training and professional development opportunities."
+  - title: "Territory Manager"
+    company: "Philip Morris International"
+    duration: "2016-2018"
+    description: "Strategize and implement comprehensive sales and marketing plans, conduct extensive market research, and analyze sales data to identify trends and opportunities for revenue growth as a territory manager. Build and maintain strong relationships with clients through effective communication and exceptional customer service, and collaborate with cross-functional teams to develop and execute targeted campaigns. Utilize leadership skills to motivate and inspire a team of sales professionals, continuously improve processes, and exceed revenue targets."
 
 #List of edcuation
 education: 
@@ -108,7 +116,7 @@ education:
  # optional
     awards_achievements: 
       - "GPA: 17.5/20"
- - school_name: "University of Quebec at Montreal"
+  - school_name: "University of Quebec at Montreal"
     duration: "2019-2022"
     degree: "Bachelor of Applied Sciences"
     department: "Software engineering"
@@ -130,3 +138,4 @@ others:
       - "Mountain bike"
       - "Surf"
       - "Musician : Gutiar/Bass/drums/Vocalist"
+
