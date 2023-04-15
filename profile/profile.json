@@ -1,0 +1,157 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 12/20"
+      ],
+      "degree": "Bachelor of Applied Sciences",
+      "department": "Geology",
+      "duration": "2012-2015",
+      "school_name": "University of Science and technology Houari Boumediene"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 17.5/20"
+      ],
+      "degree": "Master of Engineering",
+      "department": "Plate tectonics and remote sensing ",
+      "duration": "2015-2017",
+      "school_name": "University of Science and technology Houari Boumediene"
+    },
+    {
+      "awards_achievements": [
+        "GPA: 2.8/4.3"
+      ],
+      "degree": "Bachelor of Applied Sciences",
+      "department": "Software engineering",
+      "duration": "2019-2022",
+      "school_name": "University of Quebec at Montreal"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng-Anissbenddine",
+  "highlighted_projects": [
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "name": "Web app for resturant"
+    },
+    {
+      "description": "Suspendisse a tincidunt odio. Suspendisse posuere luctus aliquet. Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": null,
+      "name": "Machine Learning"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Collect and store system resource data for different hosts in a cluster with this MVP. Analyze the data with SQL queries. Utilize Linux command lines, Bash scripts, PostgreSQL, docker, and GitHub. Gather server usage data with a bash agent and insert it into the psql instance. Provision the database with Docker and manage the source code with GitHub. Aimed at the LCA team but usable by others analyzing cluster resource usage.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam.",
+        "Grep App: "
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Aniss Benddine",
+  "others": [
+    {
+      "bullets": [
+        "International French Test",
+        "Advanced Diploma in French Language Level C2",
+        "Esri Arcgis"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Mountain bike",
+        "Surf",
+        "Musician : Gutiar/Bass/drums/Vocalist"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Develop, design, and maintain software solutions using programming languages such as Java, C++, C, Haskell, and Prolog as a software developer. Utilize expertise in algorithms and web frameworks like Angular or React to create effective and efficient solutions. Utilize version control tools such as GitHub and work in an Agile/Scrum methodology to collaborate with cross-functional teams to deliver high-quality software products. Possess in-depth knowledge of Linux, SQL, PostgreSQL, Docker, VM, and cloud computing to ensure optimal software performance, security, and scalability. Continuously learn and stay up-to-date on the latest technologies and industry trends to provide innovative and cutting-edge software solutions.",
+      "duration": "2023-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Best Buy Canada",
+      "description": "Provide exceptional customer service, offer product recommendations and advice, and meet and exceed sales targets as a sales advisor at Best Buy. Utilize strong interpersonal skills to build rapport and establish trust with customers, actively listen to their needs and concerns, and provide solutions that meet their requirements. Demonstrate in-depth knowledge of products and services, and effectively communicate technical information to customers in a clear and concise manner. Collaborate with cross-functional teams to ensure customer satisfaction and support the overall success of the sales team. Continuously learn and stay up-to-date on the latest product information and trends to provide the best possible service to customers.",
+      "duration": "2019-2021",
+      "title": "Sales advisor"
+    },
+    {
+      "company": "Genisoft",
+      "description": "Troubleshoot hardware and software issues, maintain computer systems, perform routine maintenance tasks, and provide technical support to end-users as an IT technician. Utilize strong problem-solving skills and technical knowledge to identify and resolve issues efficiently and effectively. Collaborate with cross-functional teams to implement upgrades and improvements to systems, networks, and software. Maintain accurate records of service requests and repairs, and provide timely and clear communication to end-users. Continuously expand technical knowledge and skills through training and professional development opportunities.",
+      "duration": "2019-2019",
+      "title": "IT Technician"
+    },
+    {
+      "company": "Philip Morris International",
+      "description": "Strategize and implement comprehensive sales and marketing plans, conduct extensive market research, and analyze sales data to identify trends and opportunities for revenue growth as a territory manager. Build and maintain strong relationships with clients through effective communication and exceptional customer service, and collaborate with cross-functional teams to develop and execute targeted campaigns. Utilize leadership skills to motivate and inspire a team of sales professionals, continuously improve processes, and exceed revenue targets.",
+      "duration": "2016-2018",
+      "title": "Territory Manager"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "React",
+      "Angular",
+      "Bootstrap",
+      "Python",
+      "Cloud solutions",
+      "Docker"
+    ],
+    "familiar": [
+      "Unreal Engine 5",
+      "Haskell/Prolog",
+      "PHP",
+      "C#",
+      "VNC"
+    ],
+    "proficient": [
+      "Java",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git",
+      "C++",
+      "HTML/CSS/Javascript"
+    ]
+  },
+  "summary": "Hi, I am Aniss Benddine, a passionate software developer with a strong background in software engineering, geology, and spatial teledetection. I hold a Bachelor's degree in Software Engineering, a Master's degree in Plate Tectonics and Spatial Teledetection, and a Bachelor's degree in Geology.I have gained valuable experience through various roles, including working as a Territory Manager for two years, an IT Technician for six months, and a Certified Computer Advisor for two years. Currently, I'm working as a software developer, where I have been able to apply my knowledge and skills to develop innovative software solutions. What I love most about computing is the challenge it brings. I've always been interested in tech since I was young, and I've always enjoyed the challenge of using technology to solve problems. I believe that technology can be used to create innovative solutions to some of the world's most pressing problems. Overall, I'm excited about the future of technology and the role I can play in shaping it. I look forward to continuing to learn and grow as a software developer and to use my skills and knowledge to make a positive impact."
+}
